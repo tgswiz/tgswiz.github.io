@@ -1,0 +1,122 @@
+@import url('https:fonts.googleapis.com/css?family=Bowlby+One+SC&subset=latin-ext');
+
+h1,h2,h3,body {
+        margin: 0;
+        outline: 0;
+        font-size: 150%;
+    }
+
+   
+
+body {
+
+font-family: 'Bowlby One SC';
+
+}
+
+#FC {
+
+line-height: 200%;
+
+font-size:250%;
+
+}
+
+#FPCM {
+
+line-height: 250%;
+
+}
+
+
+
+#hr1 {
+
+border:none;
+background-color:rgb(0,226,121);
+
+}
+
+#hr2 {
+
+border:none; 
+background-color:rgb(0,226,121);
+
+}
+
+#hr3 {
+
+border:none;
+background-color:rgb(0,226,121);
+
+}
+
+#hr4 {
+
+border:none;
+background-color:rgb(0,226,121);  
+
+}
+
+#hr5 {
+
+border:none;
+background-color:rgb(0,226,121);
+
+}
+
+#hr6 {
+
+border:none;
+background-color:rgb(0,226,121);
+
+}
+
+#hr7 {
+
+border:none;
+background-color:rgb(0,226,121);
+
+}
+
+#hr8 {
+
+border:none;
+background-color:rgb(0,226,121);
+
+}
+
+#hr9 {
+
+border:none;
+background-color:rgb(0,226,121);
+
+}
+
+#hr10 {
+
+border:none;
+background-color:rgb(0,226,121);
+
+}
+
+#hr11 {
+
+border:none;
+background-color:rgb(0,226,121);
+
+}
+
+#hr12 {
+
+border:none;
+background-color:rgb(0,226,121);
+
+}
+
+#TC {
+
+text-decoration: none;
+color:black;
+
+}
